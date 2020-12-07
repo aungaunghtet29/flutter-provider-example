@@ -16,3 +16,6 @@ package လေးသွင်းပြီးရင်တော့ install လု
 အားလုံးပြီးပြီဆိုရင်တော့ အသုံးပြုဖို့ import လုပ်ပေးရပါမယ် ။
    
     import 'package:provider/provider.dart';
+    
+how provider work?
+    https://flutterbyexample.com/lesson/what-is-provider
